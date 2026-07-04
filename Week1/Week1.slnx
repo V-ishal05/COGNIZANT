@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Algorithm_Assignment/ECommerceSearch/ECommerceSearch.csproj" />
+  <Project Path="Algorithm_Assignment/FinancialForecasting/FinancialForecasting.csproj" />
+  <Project Path="DesignPatternsAssignment/FactoryMethodPatternExample/FactoryMethodPatternExample.csproj" />
+  <Project Path="DesignPatternsAssignment/SingletonPatternExample/SingletonPatternExample.csproj" />
+</Solution>
