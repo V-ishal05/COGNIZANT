@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Kafka_Handson/Kafka_Handson.csproj" />
+  <Project Path="WebApi_Handson2/WebApi_Handson2.csproj" />
+  <Project Path="WebApi_Handson3/WebApi_Handson3.csproj" />
+  <Project Path="WebApi_Handson4/WebApi_Handson4.csproj" />
+  <Project Path="WebApi_Handson5/WebApi_Handson5.csproj" />
+  <Project Path="WebApplication1/WebApi_Handson1.csproj" />
+</Solution>
